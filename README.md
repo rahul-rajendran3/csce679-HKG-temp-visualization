@@ -14,4 +14,4 @@
 
 Preview:
 
-![level1](./level1.png)
+![level1](./preview.png)
